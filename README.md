@@ -46,3 +46,37 @@ see RECORD dir please → [click](./RECORD)
 #### WeChat Official Accounts
 *Charles_pikachu*  
 ![img](pikachu.jpg)
+
+## required
+
+pip3 install cocos2d
+pip3 install pyaudio
+
+## 游戏列表
+内容
+ID	游戏名称
+游戏1	兔子和Bad		
+游戏2	皮卡丘Go Go Go		
+游戏3	拼图		
+游戏4	滑雪者		
+游戏5	坦克大战		
+游戏6	飞扬的鸟		
+游戏7	霸王龙		
+游戏8	塔防		
+游戏9	赶上硬币		
+游戏10	飞机战		
+游戏11	俄罗斯方块		
+游戏12	推箱子		
+游戏13	外星人入侵		
+游戏14	吃豆子		
+游戏15	宝石		
+游戏16	24点		
+游戏17	乒乓		
+游戏18	突围克隆		
+游戏19	轰炸机人		
+游戏20	迷宫		
+游戏21	Whac-A-Mole		
+游戏22	五子棋		
+游戏23	2048		
+游戏24	贪婪的蛇		
+游戏25	扫雷车		

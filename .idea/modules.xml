@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Game1/Game1.iml" filepath="$PROJECT_DIR$/Game1/Game1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game10/Game10.iml" filepath="$PROJECT_DIR$/Game10/Game10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game11/Game11.iml" filepath="$PROJECT_DIR$/Game11/Game11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game12/Game12.iml" filepath="$PROJECT_DIR$/Game12/Game12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game13/Game13.iml" filepath="$PROJECT_DIR$/Game13/Game13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game14/Game14.iml" filepath="$PROJECT_DIR$/Game14/Game14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game15/Game15.iml" filepath="$PROJECT_DIR$/Game15/Game15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game16/Game16.iml" filepath="$PROJECT_DIR$/Game16/Game16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game17/Game17.iml" filepath="$PROJECT_DIR$/Game17/Game17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game18/Game18.iml" filepath="$PROJECT_DIR$/Game18/Game18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game19/Game19.iml" filepath="$PROJECT_DIR$/Game19/Game19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game2/Game2.iml" filepath="$PROJECT_DIR$/Game2/Game2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game20/Game20.iml" filepath="$PROJECT_DIR$/Game20/Game20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game21/Game21.iml" filepath="$PROJECT_DIR$/Game21/Game21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game22/Game22.iml" filepath="$PROJECT_DIR$/Game22/Game22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game23/Game23.iml" filepath="$PROJECT_DIR$/Game23/Game23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game24/Game24.iml" filepath="$PROJECT_DIR$/Game24/Game24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game25/Game25.iml" filepath="$PROJECT_DIR$/Game25/Game25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game3/Game3.iml" filepath="$PROJECT_DIR$/Game3/Game3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game4/Game4.iml" filepath="$PROJECT_DIR$/Game4/Game4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game5/Game5.iml" filepath="$PROJECT_DIR$/Game5/Game5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game6/Game6.iml" filepath="$PROJECT_DIR$/Game6/Game6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game7/Game7.iml" filepath="$PROJECT_DIR$/Game7/Game7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game8/Game8.iml" filepath="$PROJECT_DIR$/Game8/Game8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game9/Game9.iml" filepath="$PROJECT_DIR$/Game9/Game9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Games.iml" filepath="$PROJECT_DIR$/.idea/Games.iml" />
+    </modules>
+  </component>
+</project>

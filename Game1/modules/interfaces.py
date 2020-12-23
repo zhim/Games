@@ -13,7 +13,7 @@ import pygame
 '''游戏结束界面'''
 def showEndGameInterface(screen, exitcode, accuracy, game_images):
     font = pygame.font.Font(None, 24)
-    text = font.render(f"Accuracy: {accuracy}%", True, (255, 0, 0))
+    text = font.render(r"Accuracy: {accuracy}%", True, (255, 0, 0))
     text_rect = text.get_rect()
     text_rect.centerx = screen.get_rect().centerx
     text_rect.centery = screen.get_rect().centery + 24
